@@ -1,0 +1,27 @@
+===========LOADING AND SAVING==============
+-- App asks you if you want to load already existing fridge.
+-- Fridge1 has some saved content that you can load.
+-- At the end of the program you can save you progress, in fridge2 and fridge3.
+-- It's impossible to save it in fridge1.
+-----------------------
+================FRIDGE==============
+-- Option 1: Add nutriment in fridge. You'll have to choose if you want to add food or drink.
+-- Than you will input (weight in grams) to choose how much of nutriment you want to add in fridge.
+------------
+-- Option 2: remove nutriment from fridge.
+------------
+-- Option 3: create meal, Program will only let you create meals for which you have enough nutriments.
+-- After creation, program will remove everything that you used in creation of meal.
+-- If you kad 1000g of noodles, and meal required 500g you will have 500g left
+-----------------------
+================MENU================
+-- You can get specific info for any meal, by typing number left of it's name
+------------
+-- Search: You can search meal by their name, weight, calories....
+-- You can choose to search meals with any amount of categories you want.
+-- If you don't search with any, you want find anything.
+-----------------------
+================NUTRIMENTS==========
+-- Allows you to see specifics of any nutriment.
+-- Thanks :)
+-- Created by: Milovan Vlajnic
