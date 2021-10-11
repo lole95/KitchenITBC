@@ -77,7 +77,7 @@ public class Meals {
 
         if (mealName == null && weight == null && calories == null
                 && proteins == null && carbohydrates == null && fats == null && fiber == null){
-            return searchResult; // Proveramo da li je sve null jebi se dobijas praznu listu.
+            return searchResult; // Proveramo da li je sve null .
         }
         for (Meal m : meals){
             if ((mealName == null || m.getName().contains(mealName))
